@@ -1,10 +1,12 @@
-DEMO Video
 
-https://drive.google.com/file/d/1sYyl0bSUCGKMn3s7OQV0aQgGGQoSiD8j/view?usp=sharing
 
 
 
 Covid Vaccination Tracker - By Prashant Pathak
+
+DEMO Video
+
+https://drive.google.com/file/d/1sYyl0bSUCGKMn3s7OQV0aQgGGQoSiD8j/view?usp=sharing
 
 This website is used to apply for Vaccination by users. The user can also search through the vaccination centres.
 
